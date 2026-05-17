@@ -1,0 +1,9 @@
+El uso responsable de la información en internet es fundamental para participar de manera consciente en la sociedad.
+Cuando verificamos una noticia antes de compartirla, ayudamos a evitar la desinformación y contribuimos a una mejor convivencia digital.
+La participación ciudadana también se fortalece cuando usamos internet para informarnos, opinar y compartir ideas con respeto.
+Además, en el trabajo técnico es importante mantener orden y responsabilidad en lo que hacemos.
+Herramientas como Git permiten organizar los archivos, guardar cambios y registrar el avance de un proyecto.
+Esto se relaciona con la ciudadanía digital porque ambas requieren compromiso, ética y cuidado de la información.
+Así como debemos ser responsables al publicar contenido en internet, también debemos ser organizados al trabajar con código y documentos.
+Git y GitHub ayudan a compartir el trabajo de forma clara, colaborativa y transparente.
+Por eso, el uso responsable de la información y la organización técnica son habilidades importantes para aprender programación.
