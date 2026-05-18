@@ -1,0 +1,9 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+ni preguntas-semana2.txt
+ni comandos-terminal.txt
+ni reflexion-semana2.txt
+
+Nota: En mi terminal (Windows Powershell) no funcionaba el comando touch, en cambio, usé ni (New-Item), el cual si funciona. 
