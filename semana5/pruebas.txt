@@ -1,0 +1,8 @@
+Prueba 1: http://localhost:3000
+Resultado: El servidor responde con el texto "Servidor activo".
+
+Prueba 2: http://localhost:3000/saludo
+Resultado: El servidor responde con el texto "Hola comunidad".
+
+Prueba 3: http://localhost:3000/mensaje/juan
+Resultado: El servidor toma "juan" como parámetro de la ruta (nombre) y responde "Hola juan".
