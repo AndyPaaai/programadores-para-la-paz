@@ -1,0 +1,11 @@
+Al enviar primero una petición POST para registrar un reporte y luego realizar una consulta con el método GET a la ruta http://localhost:3000/reportes, el servidor devuelve un arreglo (array) en formato JSON que contiene todos los objetos guardados hasta el momento. 
+
+Como los datos se están guardando en la variable 'reportes' (que actúa como memoria temporal), la respuesta esperada al consultar GET /reportes muestra la lista actualizada. Por ejemplo:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
