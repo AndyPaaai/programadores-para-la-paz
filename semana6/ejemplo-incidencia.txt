@@ -1,0 +1,4 @@
+{
+  "tipo": "Fuga de agua potable",
+  "descripcion": "Se reporta una rotura en la tubería principal de la calle 45. El agua fluye de manera constante desde la madrugada, afectando el paso peatonal y desperdiciando recursos."
+}
