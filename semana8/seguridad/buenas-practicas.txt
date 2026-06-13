@@ -1,0 +1,3 @@
+1. Proteger contraseñas y utilizar gestores seguros.
+2. No compartir credenciales de acceso con terceros.
+3. Mantener el software y el sistema operativo actualizados.

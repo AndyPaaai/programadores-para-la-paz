@@ -1,0 +1,5 @@
+1. No exponer datos personales ni sensibles de los ciudadanos al público.
+2. Implementar autenticación fuerte y encriptar las contraseñas en la base de datos.
+3. Utilizar conexiones seguras mediante certificados SSL (HTTPS).
+4. Registrar los accesos y mantener un historial (log) para auditorías.
+5. Limitar el acceso a la información del sistema mediante la asignación estricta de roles y permisos.
